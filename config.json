@@ -1,0 +1,9 @@
+{
+	"ip":"dragon_5942.aternos.me",
+	"port": 38704,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (tatti123)) (tatti123))",
+	"login-cmd":"/login (tatti123)"
+}
